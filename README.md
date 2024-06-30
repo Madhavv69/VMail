@@ -18,8 +18,7 @@ This project is designed to assist visually impaired individuals in composing an
 ## Setup Instructions
 1. **Clone the Repository:**
     ```bash
-    git clone https:https://github.com/Madhavv69/Hand-Gesture-Recognition-and-Voice-Conversion-for-Deaf-and-Dumb.git
-    cd Voice-Based-Email-System
+    git clone https:https://github.com/Madhavv69/Vmail.git
     ```
 
 2. **Install Dependencies:**
